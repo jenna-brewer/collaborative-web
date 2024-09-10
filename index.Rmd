@@ -12,6 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##This is my edit 
 
+<<<<<<< HEAD
 ![](https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1470951917131-VO6KK2XIFP4LPLCYW7YU/McQueen15.jpg)
 
 
+=======
+#Here is a pic of Lightning McQueen
+
+![](https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1470951917131-VO6KK2XIFP4LPLCYW7YU/McQueen15.jpg)
+>>>>>>> 34380ee4e176ed90b8ddee36c53cc2c87a11c052
